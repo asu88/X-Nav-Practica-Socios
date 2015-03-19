@@ -25,7 +25,7 @@ jQuery(document).ready(function() {
 
     
     /*Mensajes del usuario*/
-       $.getJSON("/json/myline.json", function(data) {
+       $.getJSON("json/myline.json", function(data) {
       //console.log(data.myline[0].autor);
       for(var i=0; i<data.myline.length; i++) {   
             $('#tabs-1').prepend('<h3>' + data.myline[i].autor + ": "+data.myline[i].titulo +'</h3>'+'<div><p>'+data.myline[i].contenido+'</p></div>');    
@@ -35,7 +35,7 @@ jQuery(document).ready(function() {
 
     /*Mensajes de los socios */
 
-      $.getJSON("/json/timeline.json", function(data) {
+      $.getJSON("json/timeline.json", function(data) {
      // console.log(data.myline[0].autor);
       for(var i=0; i<data.timeline.length; i++) {   
            console.log(data.timeline[i].autor);           
