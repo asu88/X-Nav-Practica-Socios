@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <meta charset="utf-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <meta name="description" content="socios">
+     <meta name="author" content="Antonio Ramon Asu">
+     <title>Socios</title>
+     <link rel="icon" href="images/logo.png" type="images/png" sizes="16x16">     
+ <!-- <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+       <script src="//code.jquery.com/jquery-1.11.2.min.js"></script> -->
+
+        <!-- jQuery UI, local file -->
+       <link rel="stylesheet" href="/css/jquery-ui.min.css">    -->
+     
+        <script src="js/jquery.js"></script> 
+        <script src="js/jquery-ui.min.js"></script>
+        <script src="js/api.js"></script>
+        <!-- Using CDN bootstrap -->       
+         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+        <!-- local CSS -->               
+         <link rel="stylesheet" href="css/main.css">
+
+        
+       <!--   <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+           <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+        <link rel= "stylesheet" href="//jqueryui.com/jquery-wp-content/themes/jqueryui.com/style.css">
+        
+     <!--   <script>        
+
+      </script> --> 
+
+</head>
+
+<body id="page-top" class="index">
+    <nav class="navbar navbar-fixed-top navbar-inverse">
+    <div class="logo"><img src="images/logo.png"></div>    
+    </nav>
+
+    <div class="container" class="col-xs-12">
+
+
+   <!--   <div class="row row-offcanvas row-offcanvas-right"> -->
+
+        <div class="col-xs-3" id="sidebar">
+         
+            <p><h1>Antonio Ramón Asu Akogo</h1></p></br>
+            <p>Desarrollo de Aplicaciones Telemáticas</p></br>
+            <p>Universidad Rey Juan Carlos</p></br>
+        </div>
+
+        <!--SECCION B -->
+        <div class="col-xs-6" id="seccion-B">
+         
+            
+             <div id="tabs">
+                <ul>
+                    <li><a href="#tabs-1">Timeline user</a></li>
+                    <li><a href="#tabs-2">Messages socios(0)</a></li>
+                    <li><a href="#tabs-3">All Messages</a></li>
+
+                </ul>
+                <div id="tabs-1">
+                  
+
+                </div>
+
+                <div id="tabs-2">
+                  
+
+                </div>
+
+                <div id="tabs-3">
+                    
+            
+                </div>
+             </div>
+       
+    
+        </div>
+            <!--SECCION C -->
+
+        <div class="col-xs-3" id="seccion-C">
+
+
+           <p><h2>Actualidad</h2></p>
+           <div id="accordion">           
+            <h3>Canal twitter</h3>
+            <div>
+                <p>
+                    Twitt1
+                </p>
+            </div>
+            <h3>Eventos</h3>
+            <div>
+                <p>
+                    Evento 1
+                </p>
+                
+            </div>
+            <h3>Noticias</h3>
+            <div>
+                <p>
+                    Noticia1
+                </p>
+                <p>
+                    Noticia2         
+               </p>
+            </div>
+         </div>       
+           <div id="date"></div>   
+          
+      </div> <!--- Seccion C -->
+
+
+    </div><!--/.container-->
+    <div id="pie">©asu-2015</div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script> -->
+
+
+  </body>
+</html>
+
