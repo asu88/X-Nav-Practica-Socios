@@ -1,0 +1,6 @@
+{
+"timeline": [
+  { "autor":"Miguel", "avatar":"", "titulo":"Universidad", "contenido":"Las clase acaban el martes.", "fecha":"18/04/2015" },
+  { "autor":"Dani", "avatar":"", "titulo":"Fiesta", "contenido":"La fiesta es el sábado en la noche", "fecha":"20/04/2015" }
+]
+}
