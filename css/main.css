@@ -1,3 +1,7 @@
+body{
+    /*background:url("/images/fondo.jpg");*/
+}
+
 .logo{
     margin-top:2%;
     margin-left:1%;
@@ -36,12 +40,13 @@
 }
 
 #tabs{
-  height:20%;
+  height:auto;
 }
 
 #seccion-B{
     margin-top:6%;
     width:50%;
+
 }
 
 .ui-widget-header {
@@ -57,12 +62,12 @@
 
 .navbar-inverse{
     background-color:#3a5795;
-    height:12%;
+    height:11%;
     min-width:40%;
 }
 
 .ui-menu { 
-    width: 10%;
+    width: 12%;
  }
 
 #dir, #fox, #chrome, #menu { 
