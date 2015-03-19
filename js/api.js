@@ -16,6 +16,10 @@ jQuery(document).ready(function() {
 
     $( "#selectable" ).selectable();  //Selecccionar un solo item en una lista
      $( "#accordion" ).accordion();   // clikc y desplegar texto
+     $("#tabs-1").accordion();
+     $("#tabs-2").accordion();
+     $("#tabs-3").accordion();
+     
      $( "#tabs" ).tabs(); // Tabla con distintos textos
 
 });
