@@ -36,11 +36,11 @@
 }
 
 #tabs{
-  height:300px;
+  height:20%;
 }
 
 #seccion-B{
-    top:70px;
+    margin-top:6%;
     width:50%;
 }
 
@@ -57,12 +57,12 @@
 
 .navbar-inverse{
     background-color:#3a5795;
-    height:82px;
-    min-width:980px;
+    height:12%;
+    min-width:40%;
 }
 
 .ui-menu { 
-    width: 150px;
+    width: 10%;
  }
 
 #dir, #fox, #chrome, #menu { 
@@ -74,7 +74,7 @@
     background:#BEBE0A;
 }
 img{
-    width: 80px; height: 50px; 
+    width: 5%; height: 2%; 
 }
 
 /*  seleccionar un elemento individualmente en una lista*/
