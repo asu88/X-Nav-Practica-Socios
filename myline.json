@@ -1,7 +1,0 @@
-{
-"myline": [
-  { "autor":"Daniel", "avatar":"imagenes/gato.png", "titulo":"Cita médico", "contenido":"La cita es en la mañana a las 9am.", "fecha":"25/04/2013" },
-  { "autor":"Daniel", "avatar":"imagenes/gato.png", "titulo":"Tutoría", "contenido":"Hola, podriamos tener una tutoria?.", "fecha":"22/04/2013" },
-  { "autor":"Daniel", "avatar":"imagenes/gato.png", "titulo":"Fútbol", "contenido":"Quedamos en el bar para ver el futbol.", "fecha":"21/04/2013" }
-]
-}
