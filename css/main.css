@@ -12,6 +12,14 @@ body{
     margin-bottom:2%;
     margin-top:10%;
 }
+#ui-id-17, #ui-13{
+
+    height:30%;
+}
+
+.ui-accordion-header{
+    height:20%;
+}
 
 #sidebar, #seccion-C{
      top:70px;     
@@ -46,7 +54,7 @@ body{
 #seccion-B{
     margin-top:6%;
     width:50%;
-
+    height:300px;
 }
 
 .ui-widget-header {
