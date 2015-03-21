@@ -3,6 +3,11 @@
   { "autor":"Dani", "avatar":"", "titulo":"Universidad", "contenido":"Pasare por la uni en los proximos diass", "fecha":"18/03/2015" },
   { "autor":"Miguel", "avatar":"", "titulo":"Fiesta", "contenido":"Mi cumple es en semana santa", "fecha":"20/03/2015" },
   { "autor":"Dani", "avatar":"", "titulo":"Defensa", "contenido":"Chavales, presento el TFG proximamente", "fecha":"20/04/2015" },
-  { "autor":"Miguel", "avatar":"", "titulo":"Acudir", "contenido":"Pasaremos a verte si eso", "fecha":"20/04/2015" }
+  { "autor":"Robin", "avatar":"", "titulo":"Entradas cine", "contenido":"Pasaremos a verte si eso", "fecha":"20/04/2015" },
+{ "autor":"Miguel", "avatar":"/images/miguel.jpg", "titulo":"Acudir", "contenido":"Pasaremos a verte si eso", "fecha":"20/04/2015" },
+{ "autor":"Richy", "avatar":"/images/richy.jpg", "titulo":"Ojear github", "contenido":"Me he tirado toda la noche mirando el tutorial de github y creando repositorios", "fecha":"20/04/2015" },
+{ "autor":"CR7", "avatar":"", "titulo":"Ir a por el clasico", "contenido":"Pasaremos a verte si eso", "fecha":"20/04/2015" },
+{ "autor":"Bencema", "avatar":"", "titulo":"Objetivo", "contenido":"Pasaremos a verte si eso", "fecha":"20/04/2015" },
+{ "autor":"Youssef", "avatar":"", "titulo":"Viaje semana santa", "contenido":"Que tal si organizamos un viaje en semana santa. Si podeis, claro y si no, lo dejamos para verano", "fecha":"20/04/2015" }
 ]
 }
