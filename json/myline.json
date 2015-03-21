@@ -1,12 +1,12 @@
 {
 "myline": [
-  { "autor":"Antonio Ramon", "avatar":"/images/asu.jpg", "titulo":"Estudiar terminales", "contenido":"Intentemos acabar la practica de terminales. Despues podemos quedar tambien para hacer la practica intermedia de DAT. Contestame antes de que se me apague el movil", "fecha":"19/03/2015" },
-  { "autor":"Antonio Ramon", "avatar":"/images/asu.jpg", "titulo":"Tutoría", "contenido":"Hola, ", "fecha":"18/03/2015" },
-  { "autor":"Antonio Ramon", "avatar":"/images/asu.jpg", "titulo":"Fútbol", "contenido":"Quedamos para ver el clasico", "fecha":"18/03/2015" },
-{ "autor":"Antonio Ramon", "avatar":"/images/asu.jpg", "titulo":"cine", "contenido":"Quedamos para ver el clasico", "fecha":"18/03/2015" },
-{ "autor":"Antonio Ramon", "avatar":"/images/asu.jpg", "titulo":"universidad", "contenido":"Quedamos para ver el clasico", "fecha":"18/03/2015" },
-{ "autor":"Antonio Ramon", "avatar":"/images/asu.jpg", "titulo":"Descargar pelis", "contenido":"Quedamos para ver el clasico", "fecha":"18/03/2015" },
-{ "autor":"Antonio Ramon", "avatar":"/images/asu.jpg", "titulo":"Ver series", "contenido":"Quedamos para ver el clasico", "fecha":"18/03/2015" },
-{ "autor":"Antonio Ramon", "avatar":"/images/asu.jpg", "titulo":"Revision", "contenido":"Que tal si acudimos a la revision de terminales? Creo que me salio bien el exmen. Tu que nota as sacado? ", "fecha":"18/03/2015" }
+  { "autor":"Antonio Ramon", "avatar":"images/asu.jpg", "titulo":"Estudiar terminales", "contenido":"Intentemos acabar la practica de terminales. Despues podemos quedar tambien para hacer la practica intermedia de DAT. Contestame antes de que se me apague el movil", "fecha":"19/03/2015" },
+  { "autor":"Antonio Ramon", "avatar":"images/asu.jpg", "titulo":"Tutoría", "contenido":"Hola, ", "fecha":"18/03/2015" },
+  { "autor":"Antonio Ramon", "avatar":"images/asu.jpg", "titulo":"Fútbol", "contenido":"Quedamos para ver el clasico", "fecha":"18/03/2015" },
+{ "autor":"Antonio Ramon", "avatar":"images/asu.jpg", "titulo":"cine", "contenido":"Quedamos para ver el clasico", "fecha":"18/03/2015" },
+{ "autor":"Antonio Ramon", "avatar":"images/asu.jpg", "titulo":"universidad", "contenido":"Quedamos para ver el clasico", "fecha":"18/03/2015" },
+{ "autor":"Antonio Ramon", "avatar":"images/asu.jpg", "titulo":"Descargar pelis", "contenido":"Quedamos para ver el clasico", "fecha":"18/03/2015" },
+{ "autor":"Antonio Ramon", "avatar":"images/asu.jpg", "titulo":"Ver series", "contenido":"Quedamos para ver el clasico", "fecha":"18/03/2015" },
+{ "autor":"Antonio Ramon", "avatar":"images/asu.jpg", "titulo":"Revision", "contenido":"Que tal si acudimos a la revision de terminales? Creo que me salio bien el exmen. Tu que nota as sacado? ", "fecha":"18/03/2015" }
 ]
 }
