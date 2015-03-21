@@ -21,13 +21,14 @@ jQuery(document).ready(function() {
         $.getJSON("json/myline.json", function(data) {
 
           for(var i=0; i<data.myline.length; i++) {   
-                foto = '<img src = '+ data.myline[i].avatar + ' > '                
-                $('#tabs-1').prepend('<h3>'+foto + data.myline[i].autor + ": "+data.myline[i].titulo +'</h3>'+'<div><p>'+data.myline[i].contenido+'</p><p>Date:'+data.myline[i].fecha+'</p></div>');    
+                //foto = '<img src = '+ data.myline[i].avatar + ' > '                
+                $('#tabs-1').prepend("<h3><img src = '"+ data.myline[i].avatar + "'/> " +data.myline[i].titulo +'</h3>'+'<div><p>'+data.myline[i].contenido+'</p><p>Date:'+data.myline[i].fecha+'</p></div>');    
 	      } ;
           $("#tabs-1").accordion(); 
 	});
 
     }
+
 
     /*Mensajes de los socios */
     function timeline(){
@@ -35,8 +36,8 @@ jQuery(document).ready(function() {
          // console.log(data.myline[0].autor);
          //newMsg =0; 
          for(var i=0; i<data.timeline.length; i++) {   
-              foto = '<img src = '+ data.timeline[i].avatar + ' >'                
-             $('#tabs-2').prepend('<h3>' +foto + data.timeline[i].autor + ": "+data.timeline[i].titulo +'</h3>'+'<div><p>'+data.timeline[i].contenido+'</p>Date:'+data.timeline[i].fecha+'</div>');    
+              //foto = <img src = '"+ data.timeline[i].avatar + "'/ >               
+             $('#tabs-2').prepend("<h3><img src = '"+ data.timeline[i].avatar + "'/> " +data.timeline[i].autor + ": "+data.timeline[i].titulo +'</h3>'+'<div><p>'+data.timeline[i].contenido+'</p>Date:'+data.timeline[i].fecha+'</div>');    
 	      } ;
 
          $("#tabs-2").accordion();   
@@ -91,7 +92,7 @@ jQuery(document).ready(function() {
 
             for(var i=0; i<newdata.update.length; i++) {   
                       
-                  $('#tabs-2').prepend('<h3>' + newdata.update[i].autor + ": "+newdata.update[i].titulo +'</h3>'+'<div><p>'+newdata.update[i].contenido+'</p><p>Date:'+newdata.update[i].fecha+'</p></div>');    
+                  $('#tabs-2').apppend('<h3>' + newdata.update[i].autor + ": "+newdata.update[i].titulo +'</h3>'+'<div><p>'+newdata.update[i].contenido+'</p><p>Date:'+newdata.update[i].fecha+'</p></div>');    
            } ;
         }else{
             alert("no hay mensajes nuevos");
