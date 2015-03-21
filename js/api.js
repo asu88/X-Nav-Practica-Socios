@@ -21,7 +21,7 @@ jQuery(document).ready(function() {
         $.getJSON("json/myline.json", function(data) {
 
           for(var i=0; i<data.myline.length; i++) {   
-                foto = '<img src = '+ data.myline[i].avatar + ' class="img-responsive"> '                
+                foto = '<img src = '+ data.myline[i].avatar + ' > '                
                 $('#tabs-1').prepend('<h3>'+foto + data.myline[i].autor + ": "+data.myline[i].titulo +'</h3>'+'<div><p>'+data.myline[i].contenido+'</p><p>Date:'+data.myline[i].fecha+'</p></div>');    
 	      } ;
           $("#tabs-1").accordion(); 
@@ -35,7 +35,7 @@ jQuery(document).ready(function() {
          // console.log(data.myline[0].autor);
          //newMsg =0; 
          for(var i=0; i<data.timeline.length; i++) {   
-              foto = '<img src = '+ data.timeline[i].avatar + ' class="img-responsive"> '                
+              foto = '<img src = '+ data.timeline[i].avatar + ' >'                
              $('#tabs-2').prepend('<h3>' +foto + data.timeline[i].autor + ": "+data.timeline[i].titulo +'</h3>'+'<div><p>'+data.timeline[i].contenido+'</p>Date:'+data.timeline[i].fecha+'</div>');    
 	      } ;
 
